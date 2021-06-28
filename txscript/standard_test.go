@@ -11,8 +11,8 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/btcsuite/btcd/chaincfg"
-	"github.com/btcsuite/btcd/wire"
+	"btcd/chaincfg"
+	"btcd/wire"
 	"github.com/btcsuite/btcutil"
 )
 

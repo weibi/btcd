@@ -11,7 +11,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/btcsuite/btcd/btcjson"
+	"btcd/btcjson"
 	"github.com/btcsuite/btcutil"
 )
 

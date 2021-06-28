@@ -1,6 +1,7 @@
 # Temp files
 *~
-
+## editor and IDE
+.idea
 # Databases
 btcd.db
 *-shm
